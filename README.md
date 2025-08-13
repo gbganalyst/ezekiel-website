@@ -1,5 +1,12 @@
 # Build Your Data Science Portfolio with Quarto
 
+![Quarto](https://img.shields.io/badge/Built%20with-Quarto-3d6df2.svg)
+![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Quarto Pub](https://img.shields.io/badge/Deploy-Quarto%20Pub-4A90E2?logo=quarto)
+![GitHub Pages](https://img.shields.io/badge/Deploy-GitHub%20Pages-black?logo=github)
+![Netlify](https://img.shields.io/badge/Deploy-Netlify-00C7B7?logo=netlify&logoColor=white)
+
 A hands-on project where participants learn to create and publish their own **personal data science portfolio website** using **[Quarto](https://quarto.org/)**. This project empowers you to showcase your work, share your journey, and demonstrate your skills to the world.
 
 ## 🚀 Project Overview
@@ -23,7 +30,7 @@ Before starting, make sure you have:
 ## 📚 Learning Resources
 
 - **Quarto Websites Documentation:** [https://quarto.org/docs/websites/](https://quarto.org/docs/websites/)
-- **Video Tutorial:** _(Add link if available)_
+- **Video Tutorial:** Watch the video accompanying this training material to follow along with setup, page creation, and publishing. _(Link will be provided by the instructor or embedded in your training platform.)_
 
 ## 📌 Task
 
