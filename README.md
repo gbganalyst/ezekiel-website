@@ -40,7 +40,7 @@ Before starting, make sure you have:
    - **Projects page** – showcase at least one data science project with description.
    - **Contact** – provide ways for people to reach you.
 3. Publish the site online.
-4. Submit your portfolio link via the form: [https://bit.ly/gbganalyst-portfolio-training](https://bit.ly/gbganalyst-portfolio-training)
+4. Share the link to your portfolio with the training community.
 
 ## 📦 Deliverable
 
